@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 50px 0;
+    width: 100vw;
+    min-height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif; /* Applying the custom font */
+    margin-left: auto; /* Centering the body */
+    margin-right: auto; /* Centering the body */
+}
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+header img {
+    width: 55%;  /* Adjusted width */
+    height: auto;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-top: 10px;
+    font-weight: 700; /* Bold font for the title */
+}
+
+main {
+    width: 90%;
+    max-width: 1200px;
+}
+
+section {
+    width: 100%;
+    margin: 20px 0;
+}
+
+section h2 {
+    font-size: 1.5em;
+    font-weight: 700; /* Bold for section titles */
+}
+
+hr {
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
