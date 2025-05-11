@@ -1,2 +1,2 @@
 # -event-JK-s25
-my event flyer
+my event flyer assignment
